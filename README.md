@@ -56,7 +56,8 @@ Calculation:
 
 Open circuit characteristics
 
-  
+  [beee2.pdf](https://github.com/user-attachments/files/25923910/beee2.pdf)
+
 Load Characteristics:
  
 Result:
