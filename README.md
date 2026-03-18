@@ -55,9 +55,15 @@ Model graph:
 Calculation: 
 
 Open circuit characteristics
-
-  [beee2.pdf](https://github.com/user-attachments/files/25923910/beee2.pdf)
-
+![image](https://github.com/Mukhil0311/EXP-2/blob/main/Screenshot_2026_0318_110437.png)
+![image](https://github.com/Mukhil0311/EXP-2/blob/main/Screenshot_2026_0318_110501.png)
+![image](https://github.com/Mukhil0311/EXP-2/blob/main/beee2_1.jpg)
+![image](https://github.com/Mukhil0311/EXP-2/blob/main/beee2_2.jpg)
+![image](https://github.com/Mukhil0311/EXP-2/blob/main/beee2_3.jpg)
+![image](https://github.com/Mukhil0311/EXP-2/blob/main/beee2_4.jpg)
+![image](https://github.com/Mukhil0311/EXP-2/blob/main/beee2_5.jpg)
+![image](https://github.com/Mukhil0311/EXP-2/blob/main/beee2_6.jpg)
+![image](https://github.com/Mukhil0311/EXP-2/blob/main/beee2_6.jpg)
 Load Characteristics:
  
 Result:
